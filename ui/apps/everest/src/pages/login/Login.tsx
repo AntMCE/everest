@@ -95,7 +95,7 @@ const Login = () => {
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          backgroundImage: "url('static/login_bg.svg')",
+          backgroundImage: "url('static/axians_percona.svg')",
           backgroundRepeat: 'no-repeat',
           backgroundSize: 'cover',
         }}
